@@ -25,3 +25,7 @@
 # macOS hidden files
 .DS_Store
 
+# Helsinki application CV
+CV_Helsinki.tex
+CV_Helsinki.pdf
+
